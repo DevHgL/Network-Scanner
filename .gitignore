@@ -1,0 +1,5 @@
+# Ignorar arquivos de ambiente e configurações sensíveis
+*.env
+*.key
+*.pem
+config.json
